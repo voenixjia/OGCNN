@@ -1,5 +1,7 @@
 # Convolutional Neural Network-based Occupancy Map Accuracy Improvement for Video-based Point Cloud Compression
 
+[[bib]](http://w.web.umkc.edu/wj3wr/TMM_occ_bib.txt) [[pdf]](http://w.web.umkc.edu/wj3wr/TMM_Occupancy_Map.pdf)
+
 https://ieeexplore.ieee.org/document/9429979
 
 W. Jia, L. Li, A. Akhtar, Z. Li, and S. Liu. "Convolutional Neural Network-based Occupancy Map Accuracy Improvement for Video-based Point Cloud Compression" In IEEE Transactions on Multimedia (TMM), 2021.
